@@ -1,4 +1,4 @@
-# FWD_Project
+# COVIZ Website
 ### Website made using React (for frontend), Django (for backend) and a PostgreSQL Database
 
 ##### Frontend Code on branch : [<code>frontend</code>](https://github.com/Aditi-Mohan/FWD_Project/tree/frontend)
